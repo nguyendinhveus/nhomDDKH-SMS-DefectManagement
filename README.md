@@ -2,10 +2,10 @@
 
 ## Thông tin nhóm
 - Thành viên:  
-Đào Tiến Đạt – BIT230081
-Nguyễn Hà Kiên – BIT
-Nguyễn Định – BIT230091
-Nguyễn Thu Hiền – BIT
+Đào Tiến Đạt – BIT230081  
+Nguyễn Hà Kiên – BIT  
+Nguyễn Định – BIT230091  
+Nguyễn Thu Hiền – BIT  
 - Ứng dụng test: Student Attendance Management System (MERN stack)
 - Link demo: https://student-attandance-management-system.netlify.app/
 - Default credentials:
